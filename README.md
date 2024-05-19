@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi There 👋, I'm Amir Syahrul Ramadhan</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNiYzl3eHU2YWc0bXoxOHM3NmR2bG1haDV5MXBicTUzajV2aGViNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on [library application](https://github.com/amirsr43/app-library.git)
 
 - 🌱 I’m currently learning **laravel, ionic**
