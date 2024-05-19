@@ -29,6 +29,5 @@
     <img src="https://img.shields.io/badge/php-white?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4"/>
     <img src="https://img.shields.io/badge/FIGMA-white?style=for-the-badge&logo=figma&logoColor=white&color=black"/>
     <img src="https://img.shields.io/badge/MYSQL-white?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1"/>
-    <img src="https://img.shields.io/badge/MYSQL-white?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1"/>
-    <img src="hhttps://img.shields.io/badge/PHP%20MY%20ADMIN-white?style=for-the-badge&logo=phpmyadmin&logoColor=white&color=%236C78AF"/>
+    <img src="https://img.shields.io/badge/PHP%20MY%20ADMIN-white?style=for-the-badge&logo=phpmyadmin&logoColor=white&color=%236C78AF"/>
 </p>
