@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [library application](https://github.com/amirsr43/App-LibraNation.git)
 
-- 🌱 I’m currently learning **laravel, ionic**
+- 🌱 I’m currently learning **ionic**
 
 - 📫 How to reach me **amirramadhan768@gmail.com**
 
