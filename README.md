@@ -13,16 +13,15 @@
 
 ### Tools And Languages:
 <p>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=HTML5&logoColor=white&color=%23E34F26"/>
+    <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=Cascading%20Style%20Sheet&logoSize=blue"/>
     <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/LARAVEL-white?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20"/>
-    <img src="https://img.shields.io/badge/LARAGON-white?style=for-the-badge&logo=laragon&logoColor=white&color=%230E83CD"/>
-    <img src="https://img.shields.io/badge/IONIC-white?style=for-the-badge&logo=ionic&logoColor=white&color=%233880FF"/>
+    <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=Typescript&logoColor=white&logoSize=blue" />
     <img src="https://img.shields.io/badge/php-white?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4"/>
-    <img src="https://img.shields.io/badge/FIGMA-white?style=for-the-badge&logo=figma&logoColor=white&color=black"/>
-    <img src="https://img.shields.io/badge/MYSQL-white?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1"/>
-    <img src="https://img.shields.io/badge/PHP%20MY%20ADMIN-white?style=for-the-badge&logo=phpmyadmin&logoColor=white&color=%236C78AF"/>
+    <img src="https://img.shields.io/badge/React%20JS-blue?style=for-the-badge&logo=React&logoColor=blue&color=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white&color=purple"/>
+    <img src="https://img.shields.io/badge/IONIC-white?style=for-the-badge&logo=ionic&logoColor=white&color=%233880FF"/>
+    <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=Git&logoColor=white&color=orange"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
