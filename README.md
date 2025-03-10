@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/amirsyahrulramadhan?igsh=MXQwZzdvc3F3MDBsNg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amirsyahrulramadhan/" height="30" width="40" /></a>
 </p>
 
-### Tools And Languages:
+### Frameworks And Languages:
 <p>
     <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=HTML5&logoColor=white&color=%23E34F26"/>
     <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=Cascading%20Style%20Sheet&logoSize=blue"/>
@@ -22,6 +22,5 @@
     <img src="https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white&color=purple"/>
     <img src="https://img.shields.io/badge/Tailwind%20CSS-blue?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&color=blue"/>
     <img src="https://img.shields.io/badge/IONIC-white?style=for-the-badge&logo=ionic&logoColor=white&color=%233880FF"/>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/laravel--white?style=for-the-badge&logo=laravel&label=laravel&labelColor=white" />
+    <img src="https://img.shields.io/badge/--white?style=for-the-badge&logo=laravel&label=laravel&labelColor=white" />
 </p>
