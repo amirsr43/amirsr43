@@ -22,5 +22,5 @@
     <img src="https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white&color=purple"/>
     <img src="https://img.shields.io/badge/Tailwind%20CSS-blue?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&color=blue"/>
     <img src="https://img.shields.io/badge/IONIC-white?style=for-the-badge&logo=ionic&logoColor=white&color=%233880FF"/>
-    <img src="https://img.shields.io/badge/--white?style=for-the-badge&logo=laravel&label=laravel&labelColor=white&color=white" />
+    <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=laravel&logoColor=white&label=laravel&labelColor=red" />
 </p>
