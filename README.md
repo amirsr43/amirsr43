@@ -22,7 +22,6 @@
     <img src="https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white&color=purple"/>
     <img src="https://img.shields.io/badge/Tailwind%20CSS-blue?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&color=blue"/>
     <img src="https://img.shields.io/badge/IONIC-white?style=for-the-badge&logo=ionic&logoColor=white&color=%233880FF"/>
-    <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=Git&logoColor=white&color=orange"/>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/laravel--white?style=for-the-badge&logo=laravel&label=laravel&labelColor=white" />
 </p>
