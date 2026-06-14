@@ -16,7 +16,7 @@
 - 🔭 Currently working on my personal projects
 - 🌱 Learning **React** & **TypeScript**
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 📫 Reach me at **amirsyahrul@email.com**
+- 📫 Reach me at **amirramadhan768@gmail.com**
 - ⚡ Fun fact: I love coffee & clean code ☕
 
 ---
@@ -37,12 +37,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirsyahrul&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsyahrul&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirsr43&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsr43&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirsyahrul&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirsr43&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
