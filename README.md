@@ -4,7 +4,7 @@
 <p align="center">Frontend Developer · UI Enthusiast · Open Source Learner</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+Vue+%7C+TypeScript+Enthusiast+%E2%9A%A1;Building+beautiful+UIs+one+pixel+at+a+time+%F0%9F%8E%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+%7C+TypeScript+Enthusiast+%E2%9A%A1;Building+beautiful+UIs+one+pixel+at+a+time+%F0%9F%8E%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 </p>
 
 <p align="center">
