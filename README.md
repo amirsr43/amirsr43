@@ -29,10 +29,6 @@
 
 ## 🚀 Featured Project
 
-<a href="https://web-react-template.vercel.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirsr43&repo=web-react-template&theme=tokyonight&hide_border=true" />
-</a>
-
 > ⭐ **[ReactAja — React Template Collection](https://web-react-template.vercel.app/)**
 > 
 > Koleksi template React yang siap pakai, clean, dan mudah dikustomisasi. Dibuat untuk mempercepat pengembangan frontend modern.
@@ -72,9 +68,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirsr43&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amirsr43&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirsr43&theme=tokyo-night&hide_border=true&area=true" />
