@@ -1,55 +1,95 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center">Hi There 👋, I'm Amir Syahrul Ramadhan</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">✨ Hi There 👋, I'm Amir Syahrul Ramadhan</h1>
+<p align="center">Frontend Developer · UI Enthusiast · Open Source Learner</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+Vue+%7C+TypeScript+Enthusiast;Always+learning+new+things+%F0%9F%8C%B1;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+Vue+%7C+TypeScript+Enthusiast+%E2%9A%A1;Building+beautiful+UIs+one+pixel+at+a+time+%F0%9F%8E%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amirsyahrul&label=Profile%20views&color=6366f1&style=flat" alt="amirsyahrul" />
+  <img src="https://komarev.com/ghpvc/?username=amirsr43&label=Profile+views&color=6366f1&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/amirsr43?label=Followers&style=flat-square&color=6366f1&logo=github" />
 </p>
 
 ---
 
-- 🔭 Currently working on my personal projects
-- 🌱 Learning **React** & **TypeScript**
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 📫 Reach me at **amirramadhan768@gmail.com**
-- ⚡ Fun fact: I love coffee & clean code ☕
+## ⚡ About Me
+
+| | |
+|---|---|
+| 🔭 Working on | Personal projects & portfolio |
+| 🌱 Currently learning | React & TypeScript |
+| 💬 Ask me about | HTML · CSS · JS · React |
+| 📫 Contact | amirramadhan768@gmail.com |
+| ⚡ Fun fact | Coffee + clean code = happiness ☕ |
+| 🎯 Goal 2025 | Ship 3 full-stack projects |
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Featured Project
+
+<a href="https://web-react-template.vercel.app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirsr43&repo=web-react-template&theme=tokyonight&hide_border=true" />
+</a>
+
+> ⭐ **[ReactAja — React Template Collection](https://web-react-template.vercel.app/)**
+> 
+> Koleksi template React yang siap pakai, clean, dan mudah dikustomisasi. Dibuat untuk mempercepat pengembangan frontend modern.
+> 
+> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+> ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+> ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+> ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+> 
+> [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge)](https://web-react-template.vercel.app/)
+
+---
+
+## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirsr43&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirsr43&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsr43&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirsr43&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amirsr43&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirsr43&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-syahrul-ramadhan-9a61b124a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amirsyahrulramadhan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amirsr43)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-amirramadhan.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amirsr43)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-amirramadhan.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirramadhan768@gmail.com)
+
+---
+
+> *"First, solve the problem. Then, write the code." — John Johnson*
