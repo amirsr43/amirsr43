@@ -23,7 +23,6 @@
 | 💬 Ask me about | HTML · CSS · JS · React |
 | 📫 Contact | amirramadhan768@gmail.com |
 | ⚡ Fun fact | Coffee + clean code = happiness ☕ |
-| 🎯 Goal 2025 | Ship 3 full-stack projects |
 
 ---
 
