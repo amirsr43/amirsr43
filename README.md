@@ -28,12 +28,12 @@
 
 ## 🚀 Featured Project
 
-> ⭐ **[ReactAja — UI Components Animations](https://reactaja-ui.vercel.app/)**
+> ⭐ **[ReactAja — UI Components Animations](https://www.reactaja.my.id/)**
 > 
 > Open-source React UI components and animation library designed to help developers build modern, interactive, and responsive web applications faster.
 > 
 > 
-> [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge)](https://reactaja-ui.vercel.app/)
+> [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge)](https://www.reactaja.my.id/)
 
 ---
 
