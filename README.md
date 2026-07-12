@@ -37,38 +37,6 @@ Open-source React UI components and animation library designed to help developer
 
 <br>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,laravel,docker,figma,git,vscode&theme=dark" />
-
-</div>
-
-<br>
-
-## ⚡ About Me
-
-<table>
-<tr>
-<td>🔭</td><td><b>Working on</b></td><td>Personal projects & portfolio</td>
-</tr>
-<tr>
-<td>🌱</td><td><b>Learning</b></td><td>React & TypeScript</td>
-</tr>
-<tr>
-<td>💬</td><td><b>Ask me about</b></td><td>HTML · CSS · JS · React · Laravel</td>
-</tr>
-<tr>
-<td>📫</td><td><b>Contact</b></td><td>amirramadhan768@gmail.com</td>
-</tr>
-<tr>
-<td>☕</td><td><b>Fun fact</b></td><td>Coffee + clean code = happiness</td>
-</tr>
-</table>
-
-<br>
-
 ## 📊 GitHub Stats
 
 <div align="center">
