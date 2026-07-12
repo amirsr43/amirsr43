@@ -37,6 +37,20 @@ Open-source React UI components and animation library designed to help developer
 
 <br>
 
+## 💻 Tech Stack
+ 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,laravel,php,python,mysql&theme=dark" />
+</div>
+<br>
+
+## 🧰 Tools
+ 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,figma,git,vscode,vercel,netlify,postman&theme=dark" />
+</div>
+<br>
+
 ## 📊 GitHub Stats
 
 <div align="center">
