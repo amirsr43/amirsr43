@@ -18,10 +18,22 @@
 ---
 
 ### 🙋‍♂️ About Me
-- 🔭 I’m currently focused on building interactive and responsive web applications.
-- 🌱 Learning advanced animations, creative interactions, and modern frontend tools.
-- 🚀 Creator of **ReactAja** — an open-source React component & animation library.
-- 💬 Ask me about: **React, TailwindCSS, Vite, or UI Design**.
+
+<table width="100%">
+  <tr>
+    <td width="75%" valign="top">
+      <ul>
+        <li>🔭 I’m currently focused on building interactive and responsive web applications.</li>
+        <li>🌱 Learning advanced animations, creative interactions, and modern frontend tools.</li>
+        <li>🚀 Creator of <strong>ReactAja</strong> — an open-source React component & animation library.</li>
+        <li>💬 Ask me about: <strong>React, TailwindCSS, Vite, or UI Design</strong>.</li>
+      </ul>
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <img src="assets/evee.gif" width="100%" alt="Eevee" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -74,7 +86,7 @@
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=amirsr43&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
+        <img src="assets/stats.gif" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirsr43&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
