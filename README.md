@@ -17,7 +17,7 @@
 
 ### 🙋‍♂️ About Me
 
-<img src="assets/evee.gif" align="right" width="130" alt="Eevee" />
+<img src="assets/evee.gif" align="right" width="170" alt="Eevee" />
 
 - 🔭 I’m currently focused on building interactive and responsive web applications.
 - 🌱 Learning advanced animations, creative interactions, and modern frontend tools.
@@ -41,7 +41,7 @@
       <h4><strong>ReactAja — UI Components & Animations</strong></h4>
       <p>An open-source React UI library built with Tailwind CSS and Framer Motion, featuring premium interactive components and smooth micro-animations to supercharge your web projects.</p>
       <a href="https://www.reactaja.my.id/">🌐 Live Demo</a> &nbsp;|&nbsp; 
-      <a href="https://github.com/amirsr43">💻 GitHub Profile</a>
+      <a href="https://github.com/amirsr43/react-aja">💻 GitHub</a>
     </td>
   </tr>
 </table>
