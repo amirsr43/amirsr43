@@ -1,7 +1,5 @@
 <div align="center">
   <img src="assets/amir.gif" width="100%" alt="Header Banner" />
-  
-  <br><br>
 
   <h3>Frontend Developer • UI Enthusiast • Open Source Learner</h3>
 
@@ -63,7 +61,7 @@
       <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql&theme=dark" />
     </td>
     <td width="30%" rowspan="2" align="center" valign="middle">
-      <img src="assets/tech.gif" width="100%" alt="Tech Animation" />
+      <img src="assets/miku.gif" width="100%" alt="Tech Animation" />
     </td>
   </tr>
   <tr>
