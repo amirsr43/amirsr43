@@ -1,71 +1,96 @@
 <div align="center">
+  <img src="assets/amir.gif" width="100%" alt="Header Banner" />
+  
+  <br><br>
 
-<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="100%">
+  <h3>Frontend Developer • UI Enthusiast • Open Source Learner</h3>
 
-<br>
-
-# Hi, I'm Amir Syahrul Ramadhan 👋
-
-### Frontend Developer · UI Enthusiast · Open Source Learner
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+TypeScript+Enthusiast+%E2%9A%A1;Building+beautiful+UIs%2C+one+pixel+at+a+time+%F0%9F%8E%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=amirsr43&label=Profile%20Views&color=6366f1&style=flat-square" />
-<img src="https://img.shields.io/github/followers/amirsr43?label=Followers&style=flat-square&color=6366f1&logo=github" />
-
+  <p align="center">
+    <a href="https://github.com/amirsr43">
+      <img src="https://komarev.com/ghpvc/?username=amirsr43&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/amirsr43">
+      <img src="https://img.shields.io/github/followers/amirsr43?label=Followers&style=flat-square&color=6366f1&logo=github" alt="Followers" />
+    </a>
+  </p>
 </div>
 
-<br>
+---
 
-## 🚀 Featured Project
+### 🙋‍♂️ About Me
+- 🔭 I’m currently focused on building interactive and responsive web applications.
+- 🌱 Learning advanced animations, creative interactions, and modern frontend tools.
+- 🚀 Creator of **ReactAja** — an open-source React component & animation library.
+- 💬 Ask me about: **React, TailwindCSS, Vite, or UI Design**.
 
-<table>
-<tr>
-<td width="100%">
+---
 
-**⭐ [ReactAja — UI Components & Animations](https://www.reactaja.my.id/)**
+### 🚀 Featured Project
 
-Open-source React UI components and animation library designed to help developers build modern, interactive, and responsive web applications faster.
-
-<a href="https://www.reactaja.my.id/"><img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" /></a>
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="30%" align="center">
+      <a href="https://www.reactaja.my.id/">
+        <img src="https://img.shields.io/badge/ReactAja-6366F1?style=for-the-badge&logo=react&logoColor=white" alt="ReactAja Badge" width="100%" />
+      </a>
+    </td>
+    <td width="70%">
+      <h4><strong>ReactAja — UI Components & Animations</strong></h4>
+      <p>An open-source React UI library built with Tailwind CSS and Framer Motion, featuring premium interactive components and smooth micro-animations to supercharge your web projects.</p>
+      <a href="https://www.reactaja.my.id/">🌐 Live Demo</a> &nbsp;|&nbsp; 
+      <a href="https://github.com/amirsr43">💻 GitHub Profile</a>
+    </td>
+  </tr>
 </table>
 
-<br>
+---
 
-## 💻 Tech Stack
- 
+### 💻 Tech Stack & Tools
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>⚡ Languages & Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&theme=dark" />
+    </td>
+    <td width="50%">
+      <h4>🖥️ Backend & Databases</h4>
+      <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h4>🛠️ DevOps & Design Tools</h4>
+      <img src="https://skillicons.dev/icons?i=docker,git,vscode,figma,postman,vercel,netlify&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,laravel,php,python,mysql&theme=dark" />
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=amirsr43&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirsr43&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirsr43&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+      </td>
+    </tr>
+  </table>
 </div>
-<br>
-
-## 🧰 Tools
- 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=docker,figma,git,vscode,vercel,netlify,postman&theme=dark" />
-</div>
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amirsr43&theme=tokyonight&hide_border=true" width="90%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amirsr43&theme=tokyo-night&hide_border=true&area=true" width="90%" />
-
-</div>
 
 <br>
 
 <div align="center">
-
-### Thanks for visiting! ✨
-
+  <h3>Thanks for visiting! ✨</h3>
 </div>
