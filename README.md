@@ -19,21 +19,14 @@
 
 ### 🙋‍♂️ About Me
 
-<table width="100%">
-  <tr>
-    <td width="75%" valign="top">
-      <ul>
-        <li>🔭 I’m currently focused on building interactive and responsive web applications.</li>
-        <li>🌱 Learning advanced animations, creative interactions, and modern frontend tools.</li>
-        <li>🚀 Creator of <strong>ReactAja</strong> — an open-source React component & animation library.</li>
-        <li>💬 Ask me about: <strong>React, TailwindCSS, Vite, or UI Design</strong>.</li>
-      </ul>
-    </td>
-    <td width="25%" align="center" valign="middle">
-      <img src="assets/evee.gif" width="100%" alt="Eevee" />
-    </td>
-  </tr>
-</table>
+<img src="assets/evee.gif" align="right" width="130" alt="Eevee" />
+
+- 🔭 I’m currently focused on building interactive and responsive web applications.
+- 🌱 Learning advanced animations, creative interactions, and modern frontend tools.
+- 🚀 Creator of **ReactAja** — an open-source React component & animation library.
+- 💬 Ask me about: **React, TailwindCSS, Vite, or UI Design**.
+
+<br clear="right" />
 
 ---
 
@@ -43,7 +36,7 @@
   <tr>
     <td width="30%" align="center">
       <a href="https://www.reactaja.my.id/">
-        <img src="https://img.shields.io/badge/ReactAja-6366F1?style=for-the-badge&logo=react&logoColor=white" alt="ReactAja Badge" width="100%" />
+        <img src="assets/reactaja.png" alt="ReactAja" width="100%" />
       </a>
     </td>
     <td width="70%">
@@ -59,19 +52,22 @@
 
 ### 💻 Tech Stack & Tools
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td width="35%" valign="top">
       <h4>⚡ Languages & Frontend</h4>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&theme=dark" />
     </td>
-    <td width="50%">
+    <td width="35%" valign="top">
       <h4>🖥️ Backend & Databases</h4>
       <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql&theme=dark" />
     </td>
+    <td width="30%" rowspan="2" align="center" valign="middle">
+      <img src="assets/tech.gif" width="100%" alt="Tech Animation" />
+    </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" valign="top">
       <h4>🛠️ DevOps & Design Tools</h4>
       <img src="https://skillicons.dev/icons?i=docker,git,vscode,figma,postman,vercel,netlify&theme=dark" />
     </td>
