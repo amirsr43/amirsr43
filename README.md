@@ -54,7 +54,7 @@
   <tr>
     <td width="35%" valign="top">
       <h4>⚡ Languages & Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,vite&theme=dark" />
     </td>
     <td width="35%" valign="top">
       <h4>🖥️ Backend & Databases</h4>
@@ -67,7 +67,7 @@
   <tr>
     <td colspan="2" valign="top">
       <h4>🛠️ DevOps & Design Tools</h4>
-      <img src="https://skillicons.dev/icons?i=docker,git,vscode,figma,postman,vercel,netlify&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,figma,postman,vercel,netlify,ai&theme=dark" />
     </td>
   </tr>
 </table>
