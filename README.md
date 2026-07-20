@@ -53,12 +53,12 @@
 <table width="100%">
   <tr>
     <td width="35%" valign="top">
-      <h4>⚡ Languages & Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,vite&theme=dark" />
+      <h4>Languages & Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,vite&theme=dark&perline=5" />
     </td>
     <td width="35%" valign="top">
-      <h4>🖥️ Backend & Databases</h4>
-      <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql&theme=dark" />
+      <h4>Backend & Databases</h4>
+      <img src="https://skillicons.dev/icons?i=laravel,php,python,mysql&theme=dark&perline=4" /><br/><br/>
     </td>
     <td width="30%" rowspan="2" align="center" valign="middle">
       <img src="assets/miku.gif" width="100%" alt="Tech Animation" />
@@ -66,8 +66,8 @@
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h4>🛠️ DevOps & Design Tools</h4>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,figma,postman,vercel,netlify,ai&theme=dark" />
+      <h4>DevOps & Design Tools</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,linux,bash,vscode,figma,postman,vercel&theme=dark&perline=5" />
     </td>
   </tr>
 </table>
